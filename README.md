@@ -42,7 +42,7 @@ Developed a C++ desktop application connected to a MySQL database to manage libr
 
 ## 🔗 Portfolio Link
 
-[Visit My Live Portfolio](https://your-username.github.io)
+[Visit My Live Portfolio](https://github.com/Rimshadev12/demo-resume-1)
 
 ---
 
