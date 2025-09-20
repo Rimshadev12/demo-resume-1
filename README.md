@@ -6,31 +6,22 @@ Welcome to my personal developer portfolio! I'm a highly motivated Computer Scie
 
 - 🎓 BS Computer Science – International Islamic University, Islamabad (Graduation: June 2025)
 - 📍 Islamabad, Pakistan
-- 💼 Career Interests: Data Analysis | Software Development | IT Support
+- 💼 Career Interests: Python | Data Analysis | Machine Learning
 - 📧 rimsha.stop@gmail.com
 
 ## 🚀 Technical Skills
 
-- **Languages:** Python, C++, JavaScript, HTML/CSS  
-- **Tools & Technologies:** Power BI, MySQL, SQLite, Git/GitHub, MS Excel, VS Code  
+- **Languages:** Python, C++, HTML/CSS  
+- **Tools & Technologies:** MySQL, Git/GitHub, MS Excel, VS Code  
 - **Soft Skills:** Problem-solving, Critical Thinking, Communication, Teamwork
 
 ## 📊 Projects
 
-### 🦠 COVID-19 Data Analysis
-Cleaned, analyzed, and visualized global COVID-19 data using Python libraries like Seaborn and Pandas.
+### Loan Aproval Prediction
+Developed a machine learning model to predict loan approvals using applicant data. Preprocessed data, trained multiple models (Random Forest, Logistic Regression, SVM, KNN), and selected the best-performing model based on accuracy.
 
-### 🛒 E-Commerce Dashboard (Power BI)
-Designed an interactive dashboard with KPIs and slicers to analyze customer purchasing behavior.
-
-### 📚 Library Management System
-Developed a C++ desktop application connected to a MySQL database to manage library records efficiently.
-
-## 📚 Courses Completed
-
-- Google Data Analytics  
-- Intro to Data Science  
-- Responsive Web Design
+### Hotel Management System
+Built a Python program to manage hotel data and user bookings, with features to sort hotels by name, rating, or available rooms, filter by location, and display booking details.
 
 ## 🎯 Hobbies & Interests
 
