@@ -12,7 +12,7 @@ Welcome to my personal developer portfolio! I'm a highly motivated Computer Scie
 ## 🚀 Technical Skills
 
 - **Languages:** Python, C++, HTML/CSS  
-- **Tools & Technologies:** MySQL, Git/GitHub, MS Excel, VS Code, LeetCode  
+- **Tools & Technologies:** MySQL, Git/GitHub, MS Excel, VS Code
 - **Soft Skills:** Problem-solving, Critical Thinking, Communication, Teamwork
 
 ## 📊 Projects
