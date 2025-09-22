@@ -6,13 +6,13 @@ Welcome to my personal developer portfolio! I'm a highly motivated Computer Scie
 
 - 🎓 BS Computer Science – International Islamic University, Islamabad (Graduation: June 2025)
 - 📍 Islamabad, Pakistan
-- 💼 Career Interests: Python | Data Analysis | Machine Learning
+- 💼 Career Interests: Python | Data Science | Machine Learning | Artificial Intelligence
 - 📧 rimsha.stop@gmail.com
 
 ## 🚀 Technical Skills
 
 - **Languages:** Python, C++, HTML/CSS  
-- **Tools & Technologies:** MySQL, Git/GitHub, MS Excel, VS Code  
+- **Tools & Technologies:** MySQL, Git/GitHub, MS Excel, VS Code, LeetCode  
 - **Soft Skills:** Problem-solving, Critical Thinking, Communication, Teamwork
 
 ## 📊 Projects
