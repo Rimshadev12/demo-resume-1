@@ -14,6 +14,7 @@ Welcome to my personal developer portfolio! I'm a highly motivated Computer Scie
 - **Languages:** Python, C++, HTML/CSS  
 - **Tools & Technologies:** SQL, MySQL, Git/GitHub, MS Excel, VS Code, MS Office
 - **Soft Skills:** Problem-solving, Critical Thinking, Communication, Teamwork
+- **Libraries:** Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow, PyTorch
 
 ## 📊 Projects
 
