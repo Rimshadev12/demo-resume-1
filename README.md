@@ -11,7 +11,7 @@ Welcome to my personal developer portfolio! I'm a highly motivated Computer Scie
 
 ## 🚀 Technical Skills
 
-***Accounting & Finance:** Accounts Payable/Receivable, Payroll, Tax Compliance, Financial Reporting, Reconciliations, Budgeting, Audit Support
+**Accounting & Finance:** Accounts Payable/Receivable, Payroll, Tax Compliance, Financial Reporting, Reconciliations, Budgeting, Audit Support
 
 **Programming & Coding:** Python (Pandas, NumPy, Matplotlib, scikit-learn, TensorFlow basics), SQL, R (basic), VBA/Excel Macros
 
