@@ -1,6 +1,6 @@
 # Hi, I'm Rimsha Khadim 👋
 
-🎯 **Aspiring Data Analyst | SQL | Power BI | PostgreSQL | Python**
+🎯 **Data Analyst | SQL | Power BI | PostgreSQL | Python**
 
 I am a Computer Science student passionate about data analysis and business intelligence. I enjoy transforming raw data into meaningful insights using SQL, Power BI, and Python.
 
